@@ -1,3 +1,5 @@
+[![CI](https://github.com/abdallahmdirie/daily-operations-coverage-report/actions/workflows/ci.yml/badge.svg)](https://github.com/abdallahmdirie/daily-operations-coverage-report/actions/workflows/ci.yml)
+
 # Daily Operations Coverage Report
 
 A sanitized reference implementation of a daily coverage reporting workflow for multi-location retail operations.
