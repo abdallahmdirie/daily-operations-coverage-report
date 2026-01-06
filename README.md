@@ -27,3 +27,6 @@ Store Supervisor → Daily Submission → Validation → Central Review (Ops/Man
 
 ## Disclaimer
 No real company identifiers, locations, staff names, financials, phone numbers, or production configuration are included.
+
+## Workflow diagram
+See: [docs/workflow-diagram.md](docs/workflow-diagram.md)
