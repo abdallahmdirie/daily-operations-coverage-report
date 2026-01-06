@@ -1,0 +1,9 @@
+{
+  "name": "daily-operations-coverage-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sanitized daily coverage reporting workflow for multi-location retail operations.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
