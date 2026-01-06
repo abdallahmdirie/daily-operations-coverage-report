@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-05",
+  "store_id": "STORE_A",
+  "submitted_by_role": "Supervisor",
+  "coverage": {
+    "opening_staff_present": true,
+    "closing_staff_present": true,
+    "missing_roles": []
+  },
+  "issues": {
+    "staffing_issue": false,
+    "utilities_issue": false,
+    "incident_reported": false,
+    "notes": "No escalations. Normal operations."
+  }
+}
